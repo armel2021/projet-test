@@ -13,3 +13,7 @@
 .show{
     visibility: visible !important;
 }
+
+.test{
+    font-size: 12px;
+}
