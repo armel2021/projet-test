@@ -1,0 +1,15 @@
+
+#btn{
+    transition: 2s;
+}
+
+
+#st{
+    visibility: hidden;
+    font-weight: bold;
+    transition: 3s;
+}
+
+.show{
+    visibility: visible !important;
+}
